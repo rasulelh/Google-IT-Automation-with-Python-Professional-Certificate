@@ -1,3 +1,4 @@
-# Git and Github course
+# Google IT Automation with Python
 
-Crash course for Git
+Google IT Automation with Python Professional Certificate
+Learn in-demand skills like Python, Git, and IT automation to advance your career
